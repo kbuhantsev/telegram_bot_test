@@ -19,6 +19,10 @@ const commands = [
     command: "menu",
     description: "menu",
   },
+  {
+    command: "second_menu",
+    description: "second_menu",
+  },
 ];
 
 module.exports = commands;
